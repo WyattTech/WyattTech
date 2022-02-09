@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm April Wyatt</h1>
-<h3 align="center">A passionate fullstack developer from Birmingham, Alabama USA</h3>
+<h3 align="center">A passionate fullstack student from Birmingham, Alabama USA</h3>
 
 - 🔭 I’m currently working on [a tic tac toe project](https://github.com/WyattTech/tictactoe2.git)
 
